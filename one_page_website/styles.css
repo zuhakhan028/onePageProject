@@ -1,0 +1,144 @@
+body{
+    margin: 0;
+    
+}
+
+h3{
+    margin: 0;
+}
+
+input, textarea{
+    background-color: #EDE8DC;
+   border-radius: 10px;
+   height: 40px;
+}
+
+#homepage{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+     padding: 50px;
+     font-size: 50px;
+     font-family: "Lexend", system-ui;
+     color: #5F6F65;
+     font-family: "Alex Brush", cursive;
+     font-weight: 100;
+     box-shadow: 10px 10px 10px #A6B37D ;
+    
+   
+   
+
+    
+}
+
+#pictures{
+background-color: #EDE8DC;
+
+}
+#forms{
+ text-align: center;
+}
+
+
+.logo{
+    font-family: "Kristi", cursive;
+   font-size: 40px;
+   color: #5F6F65;
+   font-weight: 500;
+   
+}
+.navbar{
+font-family: "Lexend", system-ui;
+background-color: #EDE8DC;
+font-style: none;
+
+text-decoration: none;
+display: flex; 
+justify-content: space-between;
+align-items: center;
+padding: 10px 50px
+
+
+}
+
+
+.navbar-link{
+    text-decoration: none;
+    color: #A6B37D;
+    margin: 10px;
+  
+   
+}
+.contact{
+    font-family: "Lexend", system-ui;
+    background-color: #EDE8DC;
+    font-size: 25px;
+    font-weight: 400;
+    border-radius: 30px;
+    padding: 10px 20px;
+}
+
+.images-div{
+    
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+margin-bottom: 80px;
+
+
+   
+
+}
+.images{
+    border-radius: 10px;
+    width: 550px;
+}
+
+.our-work{
+    font-family: "Lexend", system-ui;
+    font-weight: 100;
+     text-align: center;
+     padding: 30px;
+     margin-bottom: 50px;
+     font-size:50px;
+  
+ 
+}
+
+.form-div{
+    font-family: "Lexend", system-ui;
+    display: flex;
+    flex-direction: row;
+    padding: 0px 40px 0px 40px;
+
+    line-height: 50px;
+justify-content: center;
+
+}
+
+.form-interenal-div{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+.submit{
+  
+ 
+    padding: 10px 30px;
+    background-color:#5F6F65 ;
+    color:#EDE8DC;
+    font-size: 20px;
+    border-style: none;
+    border-radius: 10px;
+}
+
+.footer{
+    font-family: "Lexend", system-ui;
+    font-size: 20px;
+    background-color:#DEE5D4 ;
+    text-align: center;
+    padding: 10px;
+    margin-top: 50px;
+}
